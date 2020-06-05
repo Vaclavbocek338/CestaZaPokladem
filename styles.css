@@ -11,13 +11,13 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: #4d2600;
+  background-color: white;
 }
 
 .container {
   width: 800px;
   max-width: 80%;
-  background-color: #000000;
+  background-color: white;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 2px;
@@ -31,11 +31,11 @@ body {
 }
 
 .btn {
-  background-color: hsl(200, 100%, 50%);
-  border: 1px solid hsl(200, 100%, 30%);
+  background-color: white;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 5px 10px;
-  color: white;
+  color: black;
   outline: none;
 }
 
